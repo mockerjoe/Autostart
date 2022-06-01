@@ -1,0 +1,1 @@
+subprocess.Popen('D:/Emlulator/DS4windows/DS4Windows.exe')

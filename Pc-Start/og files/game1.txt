@@ -1,0 +1,2 @@
+subprocess.Popen('C:/Program Files/Sublime Text/sublime_text.exe')
+subprocess.Popen('C:/Program Files/Mozilla Firefox/Firefox.exe') 
